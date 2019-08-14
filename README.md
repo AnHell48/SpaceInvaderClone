@@ -1,5 +1,5 @@
 # SpaceInvaderClone
-Space Invader game made with monogame.
+Space Invader game(kinda) made with monogame.
 
 Controls:
 Arrow keys = movements
